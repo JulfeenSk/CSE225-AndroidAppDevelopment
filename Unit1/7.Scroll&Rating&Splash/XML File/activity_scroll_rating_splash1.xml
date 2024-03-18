@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScrollRatingSplash1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="One"></Button>
+
+        <Button
+            android:layout_width="230dp"
+            android:layout_height="95dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Two"></Button>
+
+        <Button
+            android:layout_width="210dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Three"></Button>
+
+        <Button
+            android:layout_width="190dp"
+            android:layout_height="85dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Four"></Button>
+
+        <Button
+            android:layout_width="170dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Five"></Button>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Six"></Button>
+
+        <Button
+            android:layout_width="130dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Seven"></Button>
+
+        <Button
+            android:layout_width="110dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Eight"></Button>
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Nine">
+        </Button>
+
+        <Button
+            android:layout_width="75dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Ten">
+        </Button>
+
+
+    </LinearLayout>
+
+</ScrollView>
